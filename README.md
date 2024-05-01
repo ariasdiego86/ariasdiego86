@@ -2,7 +2,7 @@
 
 About me:
 
-🎓I am currently studying an engineering degree in computer science    
+🎓I am currently studying an engineering degree in software development.    
    
 
 
