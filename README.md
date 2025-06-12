@@ -13,7 +13,8 @@ About me: 🎓I am currently studying an engineering degree in software developm
 ### 🏫 Instituto Técnico Ricaldone  
 **Líder de desarrollo** | _Marzo 2019 – Octubre 2019_  
 - Desarrollo de un sistema de administración de recursos humanos.  
-- Proyecto hecho con **PHP puro** (sin frameworks).
+- Proyecto hecho con **PHP puro** (sin frameworks), del lado del backend.
+- JavaScript, Css y bootstrap del lado del Frontend.
 
 ### ⚽ Parroquia Domingo Savio – Goal Admin  
 **Desarrollador backend** | _Noviembre 2024 – Febrero 2025_  
@@ -47,7 +48,9 @@ About me: 🎓I am currently studying an engineering degree in software developm
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
 ---
