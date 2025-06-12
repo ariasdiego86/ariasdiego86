@@ -63,8 +63,10 @@ Crear software útil, limpio y mantenible. Disfruto aprender tecnologías nuevas
 
 ## 📫 Contacto
 
-- 📧 **diego.arias.dev[at]correo.com**
-- 💼 [LinkedIn (si tienes uno)](https://www.linkedin.com)
+- 📧 **arias.2000.d@gmail.com**
+- 📞 **+503 7668-4305**
+
+  
 
 ---
 
