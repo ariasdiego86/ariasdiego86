@@ -16,10 +16,19 @@ About me: 🎓I am currently studying an engineering degree in software developm
 - Proyecto hecho con **PHP puro** (sin frameworks), del lado del backend.
 - JavaScript, Css y bootstrap del lado del Frontend.
 
-### ⚽ Parroquia Domingo Savio – Goal Admin  
-**Desarrollador backend** | _Noviembre 2024 – Febrero 2025_  
-- Proyecto para administrar equipos de fútbol en torneos tipo liga.  
-- Backend hecho con **ASP.NET**.
+### 💻 Startup Sales Corp  
+**Desarrollador Fullstack (NestJS, Next.js, Prisma, PostgreSQL)** | _Marzo 2025 – Agosto 2025_  
+- Desarrollo de APIs REST con principios de arquitectura limpia y frontends modulares con enfoque en escalabilidad.  
+- Implementación de autenticación con JWT, control de roles y validación de datos.  
+- Refactorización del patrón Repository a patrón Facade para desacoplar lógica y reducir la complejidad en los servicios.  
+- Documentación de endpoints con Swagger/OpenAPI y aplicación de principios RESTful.  
+- Trabajo con control de versiones GitFlow, Workflow (ramas feature, PRs, sprint review) y metodología Scrum.
+
+### ⚽ Proyecto Goal Admin – Parroquia Domingo Savio  
+**Desarrollador Backend (ASP.NET Core, C#, Entity Framework, SQL Server)** | _Diciembre 2024 – Enero 2025_  
+- Desarrollo de un sistema de administración de ligas deportivas, aplicando inyección de dependencias y patrón Repository (Controller–Service–Repository).  
+- Creación de migraciones, procedimientos almacenados y triggers en SQL Server para automatizar la gestión y obtener información clave del sistema.  
+- Integración y documentación de servicios REST con Swagger/OpenAPI y pruebas locales de endpoints.
 
 ---
 
