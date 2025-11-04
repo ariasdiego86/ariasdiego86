@@ -6,6 +6,8 @@
 
 About me: 🎓I am currently studying an engineering degree in software development.  
 
+#### Link a mi portafolio: https://resilient-faloodeh-34675b.netlify.app/
+
 ---
 
 ## 💼 Experiencia
