@@ -6,7 +6,7 @@
 
 About me: 🎓I am currently studying an engineering degree in software development.  
 
-##### LINK A MI PORTAFOLIO: https://diego-arias-portfolio.netlify.app
+[![🌐 Visita mi Portafolio](https://img.shields.io/badge/Portafolio-Web-2E8BFF?style=for-the-badge)](https://diego-arias-portfolio.netlify.app)
 
 ---
 
