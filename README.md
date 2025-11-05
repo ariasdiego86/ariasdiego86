@@ -8,7 +8,7 @@ About me: 🎓I am currently studying an engineering degree in software developm
 
 [![🌐 Portafolio Web](https://img.shields.io/badge/PORTAFOLIO-WEB-2E8BFF?style=for-the-badge)](https://diego-arias-portfolio.netlify.app)
 
-**Visítalo aquí:** https://diego-arias-portfolio.netlify.app
+### **Visítalo aquí:** https://diego-arias-portfolio.netlify.app
 
 ---
 
